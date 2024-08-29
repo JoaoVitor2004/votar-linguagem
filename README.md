@@ -6,7 +6,7 @@ Projeto com votagem de algumas tecnologias onde o usuario clica ou aperta em uma
 
 ### ⚙️ Guia de inatalação
 
-Acessar apartir deste <a href='https://joaovitor-lista-de-tarefas.vercel.app'>endereço</a>
+Acessar apartir deste <a href='https://votar-linguagem.vercel.app'>endereço</a>
 
 ### ⚒️ Tecnologias utilizadas
 
