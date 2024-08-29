@@ -8,6 +8,7 @@ export const Container = styled.main`
     width: 100%;
     min-height: 100vh;
     gap: 20px;
+    text-align: center;
 `;
 
 export const Title = styled.h1`
